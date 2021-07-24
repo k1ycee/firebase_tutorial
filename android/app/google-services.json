@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27231283233",
+    "project_id": "tuts-bfda6",
+    "storage_bucket": "tuts-bfda6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27231283233:android:d09dae80d7c21c7c6bdb60",
+        "android_client_info": {
+          "package_name": "com.example.tuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27231283233-8ug10flkmens69iti4tuajclga7rbqj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgkq9lTCcHQdZU9LokZfKMkyvE8fBzjcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27231283233-8ug10flkmens69iti4tuajclga7rbqj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
